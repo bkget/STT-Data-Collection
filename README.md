@@ -23,7 +23,7 @@ The aim of this project is to produce a tool that can be deployed to process pos
 
 ## Pipeline
 This is our pipeline of this project that will be used to record millions of Amharic and Swahili speakers reading digital texts in-app and web platforms.  
-![Speech-to-text data collection](data/end-to-end-details-design.jpg)
+![Speech-to-text data collection](images/end-to-end-details-design.png)
 
 ## Project Structure
 There are several files in the repository, including Python scripts, Jupyter notebooks,  and text files. 
